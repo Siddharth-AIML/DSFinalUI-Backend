@@ -81,9 +81,9 @@ The application will start on the default port (usually 8080). You can access th
 
 # Vidyalankar Institute of Technology 
 **Guided By Dr. Amit Nerurkar** 
-*Team Members*
-Siddharth Metkari
-Rishant Singh 
-Aryan Kulkarni 
-Swathi Pillai 
-Jyotsna Kasibhotla 
+*Team Members* <br>
+Siddharth Metkari <br>
+Rishant Singh <br>
+Aryan Kulkarni <br>
+Swathi Pillai <br>
+Jyotsna Kasibhotla <br>
