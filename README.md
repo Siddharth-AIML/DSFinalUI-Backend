@@ -80,7 +80,7 @@ You can run the application using the provided Maven wrapper.
 The application will start on the default port (usually 8080). You can access the dashboard by navigating to `http://localhost:8080` in your web browser.
 
 # Vidyalankar Institute of Technology 
-**Guided By Dr. Amit Nerurkar** 
+**Guided By Dr. Amit Nerurkar** <br>
 *Team Members* <br>
 Siddharth Metkari <br>
 Rishant Singh <br>
